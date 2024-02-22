@@ -1,6 +1,6 @@
 {
-  "name": "arraylasted",
-  "version": "1.0.1",
+  "name": "@arraylasted/pypi_array",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/arraylasted/pypi_array.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "arraylasted",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arraylasted/pypi_array/issues"
   },
-  "homepage": "https://github.com/arraylasted/pypi_array#readme"
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+  "homepage": "https://github.com/arraylasted/pypi_array#readme",
+  "directories": {
+    "test": "test"
   },
+  "dependencies": {
+    "pypi_array": "^1.0.0"
+  },
+  "devDependencies": {}
 }
