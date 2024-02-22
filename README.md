@@ -1,1 +1,2 @@
-# pypi_array
+
+npm i @arraylasted/pypi_array
