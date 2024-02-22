@@ -1,6 +1,6 @@
 {
-  "name": "pypi_array",
-  "version": "1.0.0",
+  "name": "arraylasted",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,4 +17,7 @@
     "url": "https://github.com/arraylasted/pypi_array/issues"
   },
   "homepage": "https://github.com/arraylasted/pypi_array#readme"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
 }
