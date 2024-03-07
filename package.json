@@ -1,14 +1,14 @@
 {
-  "name": "@arraylasted/pypi_array",
-  "version": "2.0.0",
+  "name": "arraylasted-pypi_array",
+  "version": "2.1.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "pypi": "^0.1.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arraylasted/pypi_array.git"
+    "url": "https://github.com/arraylasted/pypi_array"
   },
   "author": "arraylasted",
   "license": "ISC",
